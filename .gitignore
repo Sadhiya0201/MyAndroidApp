@@ -3,3 +3,21 @@
 /build/
 *.iml
 .DS_Store
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio
+.idea/
+*.iml
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
